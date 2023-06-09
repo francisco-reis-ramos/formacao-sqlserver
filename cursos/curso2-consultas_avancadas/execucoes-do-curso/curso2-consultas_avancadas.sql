@@ -1,3 +1,7 @@
+-- CONTEÚDO ABORDADO NO CURSO:
+		-- Funções para agrupar e ordenar saídas de consultas;
+		-- Refinamento de consultas através da combinação de funçoões como GROUP BY e HAVING;
+		-- Junções de dados de tabelas diferentes através do 'Joins'.
 
 
 -- MÓDULO 02: CONSULTANDO DADOS DE UMA TABELA
